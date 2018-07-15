@@ -1,4 +1,4 @@
-# SocialLogin
+# signin-using-google-and-facebook
 
 Step 1 : npm install --save angular5-social-login
 
